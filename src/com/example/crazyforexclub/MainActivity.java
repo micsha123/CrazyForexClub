@@ -139,6 +139,12 @@ public class MainActivity extends Activity {
 								sell = (int) (Math.random()*1000);
 								buyT.setText(String.valueOf(buy));
 								sellT.setText(String.valueOf(sell));
+								try {
+									wait(1000);
+								} catch (InterruptedException e) {
+									// TODO Auto-generated catch block
+									e.printStackTrace();
+								}
 						}
 					});}
 				}
