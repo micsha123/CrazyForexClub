@@ -3,7 +3,7 @@
 
     <string name="app_name">CrazyForexClub</string>
     <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">New Game</string>
     <string name="Dollars">$$</string>
     <string name="Sell">Sell</string>
     <string name="Buy">Buy</string>
