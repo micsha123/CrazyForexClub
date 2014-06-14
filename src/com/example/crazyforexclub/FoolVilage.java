@@ -14,7 +14,7 @@ public class FoolVilage extends Service {
     @Override
     public void onCreate() {
         super.onCreate();
-        player = MediaPlayer.create(this, R.raw.kalimba);
+        player = MediaPlayer.create(this, R.raw.foolvilage);
         player.setLooping(true); // Set looping
         player.setVolume(100,100);
 
