@@ -166,7 +166,7 @@ public class MainActivity extends Activity {
 								if (cash < 0) {
 									shouldWork = false;
 									AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());
-									builder.setTitle("Результаты игра!")
+									builder.setTitle(R.string.result)
 											.setMessage("You lose your favourite game!")
 											.setCancelable(true)
 											.setNegativeButton("Ok, gimme one more chance Master!",
