@@ -10,5 +10,6 @@
     <string name="PriceToSell">Price to sell</string>
     <string name="PriceToBuy">Price to buy</string>
     <string name="Stock">Stock</string>
+    <string name="result">Result!</string>
     
 </resources>
